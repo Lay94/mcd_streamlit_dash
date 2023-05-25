@@ -167,7 +167,7 @@ def display_map(df, df_shape, df_pop_indexed, year, report_type):
         data=df_new,
         columns=('ID', 'per_100k'),
         key_on='feature.properties.ID',
-        #fill_color='YlOrRd',
+        fill_color='YlOrRd',
         fill_opacity=0.7,
         line_opacity=0.7,
         highlight=True,
