@@ -2,6 +2,7 @@ pandas==1.2.4
 folium==0.12.1.post1
 streamlit==1.14.0
 streamlit_folium==0.6.13
-pymysql
-sqlalchemy
-geopandas
+pymysql==1.0.3
+sqlalchemy==2.0.15
+geopandas==0.10.2
+shapely==2.0.1
